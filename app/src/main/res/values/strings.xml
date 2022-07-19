@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatPT</string>
+    <string name="input_message">Enter Message</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="action_home">Chat</string>
+    <string name="action_history">History</string>
+    <string name="noteupdate">đang trong quá trình phát triển</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_chat_input.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_content_bottom.xml" value="0.121" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_content_top.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_icon.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_image.xml" value="0.2265" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_input.xml" value="0.2265" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_received_message.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_search_user.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/background_sent_message.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_add_user.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_back_user.xml" value="0.154" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_baseline_speaker_notes_24.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_chat_on.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_history_off.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_history_on.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_info.xml" value="0.154" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.206" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_logout.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_main_app.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_search.xml" value="0.24" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/drawable/ic_sent_message.xml" value="0.154" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_chat.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_sign_in_activities.xml" value="0.18449682683590207" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_sign_up_activities.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_start_layout.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/activity_user.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/fragmenthistorry.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/fragmenthome.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/fragmentimage.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/item_contaner_user.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/item_contaner_user_recent.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/item_received_message.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/layout/item_sent_message.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/menu/menubottomnavigation.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2355" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MessengerT/app/src/main/res/xml/fragmentimage.xml" value="0.20521590423257802" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
